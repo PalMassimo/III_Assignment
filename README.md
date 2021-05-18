@@ -1,2 +1,2 @@
 # III_Assignment
-III Assignment of Algorithmic and Design Course
+III Assignment of Algorithmic Design Course
